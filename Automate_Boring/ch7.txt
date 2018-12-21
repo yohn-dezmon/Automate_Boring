@@ -1,0 +1,5 @@
+Regular Expressions:
+allow you to specify a pattern of text to search for!
+e.g. of a pattern = phone numbers: 123-321-3123
+
+Finding Patterns of Text Without Regular Expressions:
